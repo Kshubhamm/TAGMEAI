@@ -23,7 +23,7 @@
     
 
 ## Problem Statement 
-Customers write product reviews on ecommerce websites like Amazon. Amazon processes the reviews to generate commonly occurring tags. But, there exist multiple tags referring to the same thing. The Auto-generated Tags from customer Reviews are pointless and repeating like battery, battery life, battery performance etc. Reviews are not well classified as positive or negative, and same goes with tags/comments
+Customers write product reviews on ecommerce websites like Amazon, Flipkart and others. Amazon processes the reviews to generate commonly occurring tags. But, there exist multiple tags referring to the same thing. The Auto-generated Tags from customer Reviews are pointless and repeating like battery, battery life, battery performance etc. Reviews are not well classified as positive or negative, and same goes with tags/comments
 
 ## Solution 💡 
 
@@ -46,7 +46,7 @@ Below is the Demo Video of our Solution located on Youtube.
 + Uvicorn 🌏 
 + Heroku 
 + Microsoft Azure ☁️
-+ HTML, CSS & JS 
++ HTML5, CSS3 & JS 
 
 For more Detail, see `requirements.txt`
 
@@ -93,7 +93,7 @@ $ uvicorn API.main:app --reload --host=0.0.0.0 --port=8000
 
 
 ## Previous Work 
-We tried to make extension before but failed terribly. It was laggy, taking down the whole site with it. NLP model was not sufficing in heroku free plan. UI was boring. 
+We tried to make extension before but failed terribly. It was laggy, taking down the whole site with it and did not perform what we expexted. NLP model was not sufficing in heroku free plan. UI was boring. 
 
 ## New Work
 New Model for NLP, Modern UI designed on Figma, Added New features like Dark Mode, support for image categorization. Much better server strength. It also ready to ship on chrome store. Remove coding error of memory leaking. We have extensively tested with multiple staging server and staging infra before getting this finally up. 
