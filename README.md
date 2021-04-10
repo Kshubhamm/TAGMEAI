@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/merrcury/tagonizer/">
-    <img src="https://raw.githubusercontent.com/merrcury/tagonizer/main/Tagonizer.png" alt="Tagonizer" width="150" height="150"> 
+  <a href="https://github.com/kshubhamm/TAGMEAI/">
+    <img src="https://raw.githubusercontent.com/merrcury/tagonizer/main/Tagme.jpg" alt="Tagonizer" width="150" height="150"> 
   </a>
 </p>
 
