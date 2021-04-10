@@ -38,7 +38,7 @@ Customers write product reviews on ecommerce websites like Amazon, Flipkart and 
 ## Demo Video 
 Below is the Demo Video of our Solution located on Youtube.
 
-[![DEMO Video](https://img.youtube.com/vi/yOqqLBWM8F0/0.jpg)](https://www.youtube.com/watch?v=yOqqLBWM8F0)
+[![DEMO Video](https://github.com/kshubhamm/TAGMEAI/blob/main/tagme.jpg)](https://youtu.be/c5izyZUOq5o)
 
 ## Technical Details/ Dependencies 🧰 
 + Python 🐍 
