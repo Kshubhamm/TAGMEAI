@@ -23,7 +23,7 @@
     
 
 ## Problem Statement 
-Customers write product reviews on ecommerce websites like Amazon. Amazon processes the reviews to generate commonly occurring tags. But, there exist multiple tags referring to the same thing. The Auto-generated Tags from customer Reviews are pointless and repeating like battery, battery life, battery performance etc. Reviews are not well classified as positive or negative, and same goes with tags/comments
+Customers write product reviews on ecommerce websites like Amazon, Flipkart and others. Amazon processes the reviews to generate commonly occurring tags. But, there exist multiple tags referring to the same thing. The Auto-generated Tags from customer Reviews are pointless and repeating like battery, battery life, battery performance etc. Reviews are not well classified as positive or negative, and same goes with tags/comments
 
 ## Solution 💡 
 
@@ -46,7 +46,7 @@ Below is the Demo Video of our Solution located on Youtube.
 + Uvicorn 🌏 
 + Heroku 
 + Microsoft Azure ☁️
-+ HTML, CSS & JS 
++ HTML5, CSS3 & JS 
 
 For more Detail, see `requirements.txt`
 
