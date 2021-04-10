@@ -93,7 +93,7 @@ $ uvicorn API.main:app --reload --host=0.0.0.0 --port=8000
 
 
 ## Previous Work 
-We tried to make extension before but failed terribly. It was laggy, taking down the whole site with it. NLP model was not sufficing in heroku free plan. UI was boring. 
+We tried to make extension before but failed terribly. It was laggy, taking down the whole site with it and did not perform what we expexted. NLP model was not sufficing in heroku free plan. UI was boring. 
 
 ## New Work
 New Model for NLP, Modern UI designed on Figma, Added New features like Dark Mode, support for image categorization. Much better server strength. It also ready to ship on chrome store. Remove coding error of memory leaking. We have extensively tested with multiple staging server and staging infra before getting this finally up. 
