@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/merrcury/tagonizer/">
-   <img src="https://madewithlove.now.sh/in?heart=true&colorA=%23ff0000&colorB=%23050505&template=plastic" alt="Made with love in India">
+  <a href="https://github.com/kshubhamm/TAGMEAI/">
+   <img src="https://madewithlove.now.sh/in?heart=true&colorA=%23ff0000&colorB=%23050505&template=plastic" alt="Made with love">
     <img alt="GitHub" src="https://img.shields.io/github/license/merrcury/tagonizer?style=plastic">
     <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20-Majestic%20Coders-red&template=plastic">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/merrcury/tagonizer/">
+  <a href="https://github.com/kshubhamm/TAGMEAI/">
     <img src ="https://img.shields.io/github/issues-raw/merrcury/Tagonizer" alt = "Open Issues">
     <img src ="https://img.shields.io/github/issues-closed-raw/merrcury/Tagonizer" alt = "Closed Issues">
     <img src ="https://img.shields.io/github/issues-pr-raw/merrcury/Tagonizer" alt = "Open Pull Requests">
